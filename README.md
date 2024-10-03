@@ -42,7 +42,7 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 [paginaweb](https://www.fje.edu/ca/jesuites-bellvitge "tituloopcional")
 
 ## Como poner Imagenes
-[textoalternativo](ubicacionimagen "tituloopcional")
+[textoalternativo](descargar.jpg "tituloopcional")
 
 
 
