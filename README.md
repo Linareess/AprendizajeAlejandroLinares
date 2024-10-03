@@ -6,4 +6,6 @@
 ##### quinto nivel de encabezado
 ###### sexto nivel de encabezado
 
-jaja
+Estos son los apuntes del *0373* del ciclo de _ASIX_ o **DAM** del curso __2425__.
+
+Las etiquetas en **_markdown_** y HTML pueden anidarse.
