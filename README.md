@@ -45,5 +45,11 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 
 ![textoalternativo](https://github.com/Linareess/AprendizajeAlejandroLinares/blob/main/descargar.jpg "tituloopcional")
 
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|:-------------:|--------------:|
+|SMX2 | Curso 24-25 | 200$ |
+|**Asix1** | Curso 24-25 | 215$ |
+DAM2 | Curso 24-25 | 220$ |
+
 
 
