@@ -23,4 +23,16 @@ Las etiquetas en **_markdown_** y HTML pueden anidarse.
 + tercer punto de lista desordenada
 
 
+### como mostrar codigo en un repositorio
+
+```
+<!DOCTYPE HTML >
+<HTML lang="en">
+   <HEAD>
+      <TITLE></TITLE>
+   </HEAD>
+   <BODY>
+   </BODY>
+</HTML>
+```
 
